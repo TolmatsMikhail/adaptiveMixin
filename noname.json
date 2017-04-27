@@ -1,24 +1,12 @@
 [
   {
-    city: 'Москва',
-    value: 12000,
-    percentage: '80%',
-    months: {
-      apr: 100,
-      may: 200,
-      june: 300,
-      july: 400
-    }
+    "name": "Москва",
+    "number": '1200',
+    "percent": "120%"
   },
   {
-    city: 'Адыгея',
-    value: 500,
-    percentage: '80%',
-    months: {
-      apr: 10,
-      may: 20,
-      june: 30,
-      july: 40
-    }
-  }  
+    "name": "Адыгея",
+    "number": '1200',
+    "percent": "146%"
+  }
 ]
